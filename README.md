@@ -90,8 +90,8 @@ DBMS-Smart-Healthcare-System/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/madddx/DBMS-Smart-Healthcare-System.git
-cd DBMS-Smart-Healthcare-System
+git clone https://github.com/poorvika-27/Smart-healthcare-management-system.git
+cd Smart-Healthcare-System
 ```
 
 ### 2. Install dependencies
